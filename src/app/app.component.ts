@@ -10,4 +10,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'angular-deployment-example';
+  days: number = 0;
 }
